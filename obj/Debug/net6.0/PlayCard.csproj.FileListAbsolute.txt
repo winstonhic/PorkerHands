@@ -1,0 +1,15 @@
+/Users/winston/repo/PlayCard/bin/Debug/net6.0/PlayCard
+/Users/winston/repo/PlayCard/bin/Debug/net6.0/PlayCard.deps.json
+/Users/winston/repo/PlayCard/bin/Debug/net6.0/PlayCard.runtimeconfig.json
+/Users/winston/repo/PlayCard/bin/Debug/net6.0/PlayCard.dll
+/Users/winston/repo/PlayCard/bin/Debug/net6.0/PlayCard.pdb
+/Users/winston/repo/PlayCard/obj/Debug/net6.0/PlayCard.csproj.AssemblyReference.cache
+/Users/winston/repo/PlayCard/obj/Debug/net6.0/PlayCard.GeneratedMSBuildEditorConfig.editorconfig
+/Users/winston/repo/PlayCard/obj/Debug/net6.0/PlayCard.AssemblyInfoInputs.cache
+/Users/winston/repo/PlayCard/obj/Debug/net6.0/PlayCard.AssemblyInfo.cs
+/Users/winston/repo/PlayCard/obj/Debug/net6.0/PlayCard.csproj.CoreCompileInputs.cache
+/Users/winston/repo/PlayCard/obj/Debug/net6.0/PlayCard.dll
+/Users/winston/repo/PlayCard/obj/Debug/net6.0/refint/PlayCard.dll
+/Users/winston/repo/PlayCard/obj/Debug/net6.0/PlayCard.pdb
+/Users/winston/repo/PlayCard/obj/Debug/net6.0/PlayCard.genruntimeconfig.cache
+/Users/winston/repo/PlayCard/obj/Debug/net6.0/ref/PlayCard.dll

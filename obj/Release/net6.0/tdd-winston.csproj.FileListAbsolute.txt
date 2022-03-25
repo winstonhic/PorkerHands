@@ -1,0 +1,15 @@
+/Users/winston/repo/tdd-winston/bin/Release/net6.0/tdd-winston
+/Users/winston/repo/tdd-winston/bin/Release/net6.0/tdd-winston.deps.json
+/Users/winston/repo/tdd-winston/bin/Release/net6.0/tdd-winston.runtimeconfig.json
+/Users/winston/repo/tdd-winston/bin/Release/net6.0/tdd-winston.dll
+/Users/winston/repo/tdd-winston/bin/Release/net6.0/tdd-winston.pdb
+/Users/winston/repo/tdd-winston/obj/Release/net6.0/tdd-winston.csproj.AssemblyReference.cache
+/Users/winston/repo/tdd-winston/obj/Release/net6.0/tdd-winston.GeneratedMSBuildEditorConfig.editorconfig
+/Users/winston/repo/tdd-winston/obj/Release/net6.0/tdd-winston.AssemblyInfoInputs.cache
+/Users/winston/repo/tdd-winston/obj/Release/net6.0/tdd-winston.AssemblyInfo.cs
+/Users/winston/repo/tdd-winston/obj/Release/net6.0/tdd-winston.csproj.CoreCompileInputs.cache
+/Users/winston/repo/tdd-winston/obj/Release/net6.0/tdd-winston.dll
+/Users/winston/repo/tdd-winston/obj/Release/net6.0/refint/tdd-winston.dll
+/Users/winston/repo/tdd-winston/obj/Release/net6.0/tdd-winston.pdb
+/Users/winston/repo/tdd-winston/obj/Release/net6.0/tdd-winston.genruntimeconfig.cache
+/Users/winston/repo/tdd-winston/obj/Release/net6.0/ref/tdd-winston.dll
